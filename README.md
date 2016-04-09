@@ -20,7 +20,7 @@ import (
 )
 
 func main() {
-     err := gopid.Run("svcname") // will result is a file /var/run/svcname.pid to be created with the pid.
+     err := gopid.Run("svcname") // will write the service pid to /var/run/svcname.pid
 }
 
 ```
