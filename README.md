@@ -2,7 +2,7 @@
 
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/kahoon/ksql/master/LICENSE)
 
-A simple go utility to run a service pid to /var/run on linux systems
+A simple go utility to write a service pid to /var/run on linux systems
 
 ## Install
 
